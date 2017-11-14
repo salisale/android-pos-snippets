@@ -4,6 +4,9 @@ Proofs of my exacting labour<br />
 
 **
 
+**Application Type**: Commercial POS service terminal <br />
+**Targeted Clients**: Restaurants <br />
+
 **Total Lines of Code**: 6,684 (layout and php files excluded)<br />
 **Pure Source Code**: 5,357<br />
 **Comments and Blanks**: 1,327<br />
