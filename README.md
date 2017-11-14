@@ -1,10 +1,10 @@
 ## Some Code Snippets from MyPOSWin Project
 Proofs of my exacting labour<br />
--> Freelance work for *Intersoft Engineering Thailand*
+-> Freelance work for *Intersoft Engineering, Thailand*
 
 **
 
-**Total Lines of Code**: 6,684<br />
+**Total Lines of Code**: 6,684 (layout and php files excluded)<br />
 **Pure Source Code**: 5,357<br />
 **Comments and Blanks**: 1,327<br />
 
@@ -25,8 +25,12 @@ Yes
 **Development Tools**: <br />
 Android Studio, MAMP
 
+**Development Period**: <br />
+Aug 2016 - Mar 2017 (Core versions)
+
 **APK Size**: <br />
 2.2 Mb
+
 
 **
 
