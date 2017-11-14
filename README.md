@@ -1,5 +1,6 @@
 ## Some Code Snippets from MyPOSWin Project
 Proofs of my exacting labour<br />
+-> Freelance work for *Intersoft Engineering Thailand*
 
 **
 
@@ -18,11 +19,14 @@ Proofs of my exacting labour<br />
 **PHP Supplements**: <br />
 14 scripts (retrieving, inserting, updating, and other necessary files or classes)
 
-**Development Tools**: 
+**Caffeine Overdosed**: <br />
+Yes
+
+**Development Tools**: <br />
 Android Studio, MAMP
 
-**APK Size**: 
-2.2 Mb <br />
+**APK Size**: <br />
+2.2 Mb
 
 **
 
