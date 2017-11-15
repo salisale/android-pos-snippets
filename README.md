@@ -34,7 +34,7 @@ Android Studio, MAMP
 Aug 2016 - Mar 2017 (Core versions)
 
 **APK Size**: <br />
-2.2 Mb
+2.2 MB
 
 
 **
