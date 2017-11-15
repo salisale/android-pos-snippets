@@ -1,5 +1,4 @@
 ## Some Code Snippets from MyPOSWin Project
-Proofs of my exacting labour<br />
 -> Freelance work for *Intersoft Engineering, Thailand* <br />
 -> http://intersoft.co.th/product/
 
